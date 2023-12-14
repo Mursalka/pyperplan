@@ -1,8 +1,8 @@
 {
 "agent":{
-    "agentA":4,
-    "agentB":10,
-    "agentC":6
+    "agentA":[1,4],
+    "agentB":[7,10],
+    "agentC":[2,6]
 },
 "predicates":{
     "on":["x","y"],
